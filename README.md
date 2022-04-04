@@ -3,11 +3,11 @@ Weather App 🌇 ⛅ 🌃 🌧️
 
 - This app was developed to help people see the weather, date, time, sky's condition, humidity and the wind speed of the cities around the world in an elegant and intuitive way.
 - For this app I used HTML5, CSS3, Vanilla JavaScript and Vanilla-tilt.js for the interactive card and in a responsive way, with API of https://openweathermap.org/ and https://ipgeolocation.io/ and the random background images were generated with https://unsplash.com/ .
-- Link to open the App: 
+- Link to open the App: https://lucastaborda99.github.io/MyWeather/
 ---
 - Este aplicativo foi desenvolvido para ajudar as pessoas a visualizarem o clima, data, hora, condição do céu, umidade e a velocidade do vento das cidades ao redor do mundo de forma elegante e intuitiva.
 - Para este aplicativo utilizei HTML5, CSS3, Vanilla JavaScript e Vanilla-tilt.js para o card interativo e de forma responsiva, utilizando API de https://openweathermap.org/ e https://ipgeolocation.io/ e as imagens aleatórias de fundo foram geradas com https://unsplash.com/ .
-- Link para abrir o App:
+- Link para abrir o App: https://lucastaborda99.github.io/MyWeather/
 ---
 - Demo: 
 
